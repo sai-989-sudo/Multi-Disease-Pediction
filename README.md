@@ -1,4 +1,4 @@
-# Multi-Disease-Predictio 
+# Multi-Disease-Prediction
 
 ##  Project Overview
 The **Multi-Disease Prediction System** is a machine learning-based solution designed to predict the likelihood of multiple diseases, including **Diabetes, Liver Disease, and Heart Disease**. Using **Random Forest Classifier**, this project leverages medical datasets to train models and provide accurate predictions based on patient health metrics.
