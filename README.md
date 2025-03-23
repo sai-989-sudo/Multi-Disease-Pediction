@@ -11,6 +11,17 @@ The **Multi-Disease Prediction System** is a machine learning-based solution des
 - **Visualization:** Data distribution, correlation heatmaps, and performance metrics
 - **Interactive UI (Optional):** Can be integrated with Flask or Streamlit for a user-friendly interface
 
+##  Screenshots
+-  <img width="1440" alt="Home" src="https://github.com/user-attachments/assets/5e1a5a5a-c222-40a5-a592-f9b5847a2a86" />
+-  <img width="1440" alt="doctors " src="https://github.com/user-attachments/assets/7e8b7c18-9167-45d7-a0b5-4ead0e9810f4" />
+- <img width="1440" alt="book an appointment " src="https://github.com/user-attachments/assets/3973e5c9-f8db-412b-b0df-b9aa9a4556a0" />
+-  <img width="1440" alt="disease prediction " src="https://github.com/user-attachments/assets/b87e0d1e-6ad7-4ed7-bd1a-68929161d87b" />
+-  <img width="1440" alt="contact us " src="https://github.com/user-attachments/assets/52bca51e-24ae-449e-81a6-4275d43ac3a3" />
+-  <img width="1440" alt="appointment booking " src="https://github.com/user-attachments/assets/fc529011-a126-4b92-83e1-a84912c2d3b3" />
+
+
+
+
 ## Tech Stack
 - **Programming Language:** Python
 - **Libraries:**
