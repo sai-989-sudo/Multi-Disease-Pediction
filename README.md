@@ -22,7 +22,7 @@ The **Multi-Disease Prediction System** is a machine learning-based solution des
 
 
 
-## Tech Stack
+## Tech Stack 
 - **Programming Language:** Python
 - **Libraries:**
   - Data Processing: `pandas`, `numpy`
